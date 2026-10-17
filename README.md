@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # MobFixo — New Delhi (demo site)
 
 Next.js 16 + Tailwind 4 + GSAP. Fully standalone: no external API calls, fonts are bundled via @fontsource.
@@ -15,3 +16,6 @@ Open http://localhost:3000 (Node 20.9+ required, 22 LTS recommended).
 - Logo: `site/components/Logo.tsx`
 
 All contact details are dummy placeholders.
+=======
+# MobFixo-1
+>>>>>>> origin/main
